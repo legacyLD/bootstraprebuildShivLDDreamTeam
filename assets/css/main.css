@@ -8,3 +8,8 @@
   transition-timing-function: ease;
   top: 0px;
 }
+.stolenPic {
+  max-width: 160px;
+  border: 5px;
+  border-color: 5px solid #473F41;
+}
