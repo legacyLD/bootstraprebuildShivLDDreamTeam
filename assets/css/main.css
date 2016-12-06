@@ -1,0 +1,10 @@
+.nav-bar {
+  background-color: black;
+  color: rgb(150,150,150);
+  style: left:0px;
+  width: 160px;
+  transition-property: all;
+  transition-duration: 0s;
+  transition-timing-function: ease;
+  top: 0px;
+}
